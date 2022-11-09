@@ -85,6 +85,11 @@ td {
   padding-right: 5px;
 }
 
+td :hover {
+  color: #ffffff;
+  background-color: #000000;
+}
+
 tr {
   display: table-row;
   vertical-align: inherit;
