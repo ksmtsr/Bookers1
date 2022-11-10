@@ -158,3 +158,9 @@ div.actions {
 input[type="submit" i] {
   padding: 1px 6px;
 }
+
+.field_with_errors {
+  padding: 2px;
+  background-color: red;
+  display: table;
+}
