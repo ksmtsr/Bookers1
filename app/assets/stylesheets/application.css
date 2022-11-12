@@ -96,6 +96,11 @@ tr {
   border-color: inherit;
 }
 
+h1 {
+  padding-bottom: 17px;
+
+}
+
 h2 {
   display: block;
   font-size: 19px;
@@ -163,4 +168,8 @@ input[type="submit" i] {
   padding: 2px;
   background-color: red;
   display: table;
+}
+
+.link {
+  padding-top: 10px;
 }
